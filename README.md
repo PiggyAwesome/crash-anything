@@ -5,4 +5,4 @@ Me neither, but here you go anyway:
 
 1. Enter the contents of `hacks.txt` into your chat bar:
 
-Now you will most likely be stuck.
+Now you will most likely have crashed your application.
